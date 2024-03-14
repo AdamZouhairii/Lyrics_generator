@@ -8,7 +8,7 @@ This project aims to develop an Artificial Intelligence (AI) capable of automati
    - This component extracts song data from websites like Genius.com, retrieving lyrics, tags, and artist names.
 
 2. **Lyrics Generator:**
-   - The AI generates song lyrics based on specified categories. It utilizes a pretrained language model, such as GPT-2, to produce coherent and creative lyrics.
+   - The AI generates song lyrics based on specified categories. It utilizes a pretrained language model, such as GPT-2 or mistral, to produce coherent and creative lyrics.
 
 3. **Data Formatter:**
    - This component prepares data extracted by the scraper for training the lyrics generation model. It formats the data and saves it in a suitable format for training.
