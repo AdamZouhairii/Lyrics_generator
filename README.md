@@ -27,6 +27,7 @@ This project aims to develop an Artificial Intelligence (AI) capable of automati
   - BeautifulSoup
   - transformers (Hugging Face)
   - torch
+  - need token from Genius API
 
 This project aims to explore the capabilities of language models in text generation and provide a fun and creative tool for music enthusiasts and technology enthusiasts alike. 🎶📲
 
