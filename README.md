@@ -22,7 +22,6 @@ This project aims to develop an Artificial Intelligence (AI) capable of automati
   - It's possible to train the AI on specific data so that it can generate lyrics in the style of particular artists or specific music genres.
 ## 🛠️ Requirements
 
-- Python 3.x
 - Libraries:
   - requests
   - BeautifulSoup
